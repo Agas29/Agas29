@@ -2,9 +2,9 @@
 
 Perkenalkan, nama saya **Anggoro Gigis Adi Saputro**.
 
-Saya seorang **Software Engineer** yang memiliki minat pada **Machine Learning** dan **Data Science**.
+Saya seorang **Software Engineer** dengan ketertarikan pada **Machine Learning** dan **Data Science**.
 
-Saya tertarik dalam membangun aplikasi, memecahkan masalah dengan teknologi, serta mengeksplorasi bagaimana software dan data dapat digunakan untuk menghasilkan solusi yang lebih baik.
+Saya senang membangun aplikasi, memecahkan masalah menggunakan teknologi, dan mengeksplorasi bagaimana software serta data dapat digunakan untuk menghasilkan solusi yang bermanfaat.
 
 **Software Engineer | Mobile & Web Development | Machine Learning | Data Science**
 
@@ -15,7 +15,7 @@ Saya tertarik dalam membangun aplikasi, memecahkan masalah dengan teknologi, ser
 ### 💻 Software Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,java,js,html,css,react,nodejs" />
+  <img src="https://skillicons.dev/icons?i=c,java,js,html,css,react,nodejs,cs" />
 </p>
 
 ### 📊 Machine Learning & Data Science
@@ -24,16 +24,18 @@ Saya tertarik dalam membangun aplikasi, memecahkan masalah dengan teknologi, ser
   <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-- Pandas
-- NumPy
-- Matplotlib
-- Scikit-learn
-- Streamlit
+<p align="left">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+</p>
 
 ### 🗄️ Database & Backend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=supabase,postgresql" />
+  <img src="https://skillicons.dev/icons?i=supabase,postgresql,dotnet" />
 </p>
 
 ### ⚙️ Tools & Platforms
@@ -46,21 +48,42 @@ Saya tertarik dalam membangun aplikasi, memecahkan masalah dengan teknologi, ser
 
 ## 🚀 Featured Projects
 
-### 📱 AMI Mobile
+### 📊 Stock Market Clustering
 
-Aplikasi mobile untuk mendukung proses **Audit Mutu Internal (AMI)**.
+A Machine Learning project focused on **clustering and interpreting global stock market indices** using feature engineering and unsupervised learning techniques.
+
+The project includes data preprocessing, exploratory analysis, feature engineering, clustering, model persistence, and an interactive Streamlit dashboard.
 
 **Tech Stack:**  
-`React Native` · `Expo` · `Supabase` · `PostgreSQL`
+`Python` · `Pandas` · `NumPy` · `Scikit-learn` · `Streamlit`
+
+🔗 [View Repository](https://github.com/Agas29/StockMarketClusteringML)
 
 ---
 
-### 📊 Stock Market Clustering
+### 🎵 Hi-Music — AlbumOS
 
-Project Machine Learning untuk melakukan **clustering dan interpretasi profil indeks saham global** menggunakan feature engineering dan metode clustering.
+An **offline album-focused music player** built to provide a focused and organized music listening experience.
+
+The project explores mobile application development using React Native and Expo, with Supabase used for backend and data management.
 
 **Tech Stack:**  
-`Python` · `Pandas` · `Scikit-learn` · `Streamlit`
+`React Native` · `Expo` · `Supabase`
+
+🔗 [View Repository](https://github.com/Agas29/Hi-Music)
+
+---
+
+### 🌐 Sistem Penelitian
+
+A full-stack application consisting of separate **frontend and backend** components.
+
+The project explores application development across multiple layers, including frontend development, backend services, and database integration.
+
+**Tech Stack:**  
+`TypeScript` · `C#` · `.NET`
+
+🔗 [Frontend](https://github.com/Agas29/sistem_penelitian-frontend) · [Backend](https://github.com/Agas29/sistem_penelitian-backend)
 
 ---
 
@@ -71,6 +94,7 @@ Project Machine Learning untuk melakukan **clustering dan interpretasi profil in
 - Data Science
 - Mobile & Web Development
 - Cloud & DevOps
+- System Design
 
 ---
 
