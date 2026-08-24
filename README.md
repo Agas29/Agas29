@@ -10,6 +10,8 @@ Saya senang membangun aplikasi, memecahkan masalah menggunakan teknologi, dan me
 
 ---
 
+## 📈 GitHub Stats
+
 <p align="left">
 <a href="https://github.com/penuliscode">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -104,15 +106,6 @@ The project explores application development across multiple layers, including f
 - Mobile & Web Development
 - Cloud & DevOps
 - System Design
-
----
-
-## 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Agas29&show_icons=true&hide_border=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agas29&layout=compact&hide_border=true&theme=tokyonight" height="170"/>
-</p>
 
 ---
 
