@@ -101,8 +101,8 @@ The project explores application development across multiple layers, including f
 ## 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Agas29&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agas29&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Agas29&show_icons=true&hide_border=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agas29&layout=compact&hide_border=true&theme=tokyonight" height="170"/>
 </p>
 
 ---
